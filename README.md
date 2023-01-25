@@ -1,2 +1,2 @@
-# play-fairway-using-ordinary-kriging
+# Play-Fairway-Analysis-Using-Ordinary-Kriging
 Play Fairway Analysis using Ordinary Kriging
